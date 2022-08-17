@@ -1,1 +1,1 @@
-# LinearProgramming
+# Linear Programming
